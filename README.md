@@ -1,1 +1,2 @@
 # flakkacore
+Core protobuf definitions
